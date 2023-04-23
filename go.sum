@@ -86,8 +86,8 @@ github.com/gorilla/websocket v1.5.0 h1:PPwGk2jz7EePpoHN/+ClbZu8SPxiqlu12wZP/3sWm
 github.com/gorilla/websocket v1.5.0/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
 github.com/gregjones/httpcache v0.0.0-20180305231024-9cad4c3443a7/go.mod h1:FecbI9+v66THATjSRHfNgh1IVFe/9kFxbXtjV0ctIMA=
 github.com/grpc-ecosystem/grpc-gateway v1.5.0/go.mod h1:RSKVYQBd5MCa4OVpNdGskqpgL2+G+NZTnrVHpWWfpdw=
-github.com/jdvcs/Xray-core v0.0.0-20230423004143-90d915ea0505 h1:JKrrHuBUY3gRAUqO8sqchr3JkcQ7GvLPbb4/pj8o79s=
-github.com/jdvcs/Xray-core v0.0.0-20230423004143-90d915ea0505/go.mod h1:HFra3d5AT8rFyx0hEdNAuUQZOZj4zmCup0NrhNdx6NA=
+github.com/jdvcs/Xray-core v0.0.0-20230423142942-fbca4b9fd2d1 h1:4/0USEql92nBjiBSCojypdccePobsx0psQ0TG+MC5mQ=
+github.com/jdvcs/Xray-core v0.0.0-20230423142942-fbca4b9fd2d1/go.mod h1:C2LIgguuiy/8CFM0eqmb4G6alyBg2EpmSrrwrmVOMig=
 github.com/jellevandenhooff/dkim v0.0.0-20150330215556-f50fe3d243e1/go.mod h1:E0B/fFc00Y+Rasa88328GlI/XbtyysCtTHZS8h7IrBU=
 github.com/json-iterator/go v1.1.6/go.mod h1:+SdeFBvtyEkXs7REEP0seUULqWtbJapLOCVDaaPEHmU=
 github.com/jstemmer/go-junit-report v0.0.0-20190106144839-af01ea7f8024/go.mod h1:6v2b51hI/fHJwM22ozAgKL4VKDeJcHhJFhtBdhmNjmU=

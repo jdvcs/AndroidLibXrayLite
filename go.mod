@@ -8,7 +8,7 @@ require (
 	golang.org/x/sys v0.7.0
 )
 
-replace github.com/xtls/xray-core => github.com/jdvcs/Xray-core v0.0.0-20230423004143-90d915ea0505
+replace github.com/xtls/xray-core => github.com/jdvcs/Xray-core v0.0.0-20230423142942-fbca4b9fd2d1
 
 require (
 	github.com/andybalholm/brotli v1.0.5 // indirect
